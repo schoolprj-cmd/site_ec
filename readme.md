@@ -1,6 +1,6 @@
 # educazione civica
 
-Questo é un semplice sito statico riguardante fake new's nella storia,
+Questo é un semplice sito statico riguardante fake news nella storia,
 
 é anche hostato con github pages a questo link: 
 
