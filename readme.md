@@ -2,7 +2,7 @@
 
 Questo é un semplice sito statico riguardante fake news nella storia,
 
-é anche hostato con github pages a questo link: 
+é anche hostato con github pages, [visita](https://schoolprj-cmd.github.io/site_ec/) 
 
 
 ## struttura del sito
